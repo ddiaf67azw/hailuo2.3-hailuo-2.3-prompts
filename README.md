@@ -2,7 +2,7 @@
 
 > **default $0.0248; 1080P $0.0424** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-a5e539)** · **[Get an API key](https://go.apimart.ai/k-433e8c)**
 
 Everything here refers to **hailuo-2.3** — also written **hailuo2.3** or **hailuo 2.3**.
 
